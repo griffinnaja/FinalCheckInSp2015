@@ -1,0 +1,46 @@
+body{
+  background-color: #6192ED;
+}
+hr{
+  color: black; 
+}
+div {
+  display: block;
+}
+
+nav {
+  margin: 0 auto;
+  width: 1000px;
+  padding: 5px 0;
+  text-align: center;
+
+}
+nav a{
+margin: 0 35px;
+}
+
+header h1 {
+text-align: center;
+margin: 0;
+padding-top: .25em;
+color: blue;
+font-size: 50px;
+}
+
+header h3 {
+text-align: center;
+margin: 0;
+padding-bottom: 1em;
+color: purple;
+font-size: 25px;
+}
+#maincolumn{
+  margin: 0 auto;
+  width: 1000px;
+  padding: 5px 15px;
+  letter-spacing: .05em;
+}
+.floatright{
+  float: right;
+  margin-left: 10px;
+}
